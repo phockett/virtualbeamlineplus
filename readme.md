@@ -1,4 +1,4 @@
-# Virtual Beamline for BlueSky Control System Testing PLUS real instruments
+# Virtual Beamline for Epics + BlueSky Control System Testing PLUS real instruments
 
 *Forked from original at https://github.com/KedoKudo/virtualbeamline, adding some additional real instruments for testing too.*
 
