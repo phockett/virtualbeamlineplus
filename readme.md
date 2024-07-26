@@ -1,4 +1,6 @@
-__Virtual Beamline for BlueSky Control System Testing__
+__Virtual Beamline for BlueSky Control System Testing PLUS real instruments__
+
+Forked from original at https://github.com/KedoKudo/virtualbeamline, adding some additional real instruments for testing too.
 
 ## Build Sequence
 * Base image is Debian with Epics added in.
